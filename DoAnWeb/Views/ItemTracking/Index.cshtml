@@ -1,0 +1,48 @@
+﻿@model IEnumerable<DoAnWeb.Models.tb_Order>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Danh sách đơn hàng</h2>
+<p>
+    @Html.ActionLink("* Tạo đơn hàng mới *", "Create")
+</p>
+<div class="row">
+    <div class="col-12">
+        <div class="card-body">
+            <table class="table table-bordered" id="tripTable">
+                <thead>
+                    <tr>
+                        <th>Mã đơn hàng</th>
+                        <th>Tên mặt hàng</th>
+                        <th>Tên người gửi</th>
+                        <th>Tên người nhận</th>
+                        <th>Thu hộ</th>
+                        <th>Trạng thái</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @{
+                        foreach (var item in Model)
+                        {
+                                        <tr data-widget="expandable-table" aria-expanded="false">
+                                            <td>@item.ItemCode</td>
+                                            <td>@item.ItemName</td>
+                                            <td>@item.SenderName</td>
+                                            <td>@item.ReceiverName</td>
+                                            <td>@item.PaymentMethodCod VNĐ</td>
+                                            <td>@item.IsActive </td>
+                                            <td>
+                                                <a href="/order/details/@item.Id" class="btn btn-primary btn-sm">Xem</a>
+                                                <a href="/order/delete/@item.Id" class="btn btn-danger btn-sm">Xóa</a>
+                                            </td>
+                                        </tr>
+                        }
+                    }
+            </table>
+        </div>
+    </div>
+</div>

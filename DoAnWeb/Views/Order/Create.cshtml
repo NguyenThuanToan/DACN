@@ -1,0 +1,552 @@
+﻿@model DoAnWeb.Models.tb_Order
+@using Dto.ProvinceDto
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var provinceList = ViewData["ProvinceList"] as ProvinceDto;
+}
+
+<h2>Tạo vận đơn</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        <hr />
+        @*@Html.ValidationSummary(true, "", new { @class = "text-danger" })*@
+        @*<div class="form-group">
+                @Html.LabelFor(model => model.Id, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Id, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Id, "", new { @class = "text-danger" })
+                </div>
+            </div>*@
+
+        <div>
+            <h2>Thông tin người gửi</h2>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.SenderName, "Họ tên", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.SenderName, new { htmlAttributes = new { @class = "form-control", placeholder = "Nhập họ tên người gửi" } })
+                    @Html.ValidationMessageFor(model => model.SenderName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.SenderPhone, "Số điện thoại", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.SenderPhone, new { htmlAttributes = new { @class = "form-control", placeholder = "Nhập số điện thoại" } })
+                    @Html.ValidationMessageFor(model => model.SenderPhone, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="sender-address" style="
+                     display: flex;
+                     padding-bottom: 10px;
+                     width: 50%;">
+                    <div class="col-md-10">
+                        <select class="form-control" id="provinceDropdown" name="SelectedProvince">
+                            <option value="">Chọn tỉnh thành</option>
+                            @if (provinceList == null || provinceList.Data == null)
+                            {
+                                <option value="">Trong</option>
+
+                            }
+                            else
+                            {
+                                foreach (var province in provinceList.Data)
+                                {
+                                    <option value="@province.ProvinceId">@province.ProvinceName</option>
+                                }
+                            }
+
+                        </select>
+                    </div>
+                    <div class="col-md-10">
+                        <select class="form-control" id="districtDropdown" name="SelectedProvince">
+                        </select>
+                    </div>
+                </div>
+
+                <div class="col-md-10">
+                    <select class="form-control" id="wardDropdown" name="SelectedWard">
+                    </select>
+
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.SenderAddress, "Địa chỉ", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.SenderAddress, new { htmlAttributes = new { @class = "address form-control", placeholder = "Nhập địa chỉ (số nhà/tên đường, quận/huyện, phường/xã, tỉnh/thành phố)" } })
+                    @Html.ValidationMessageFor(model => model.SenderAddress, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+        </div>
+        <div>
+            <h2>Thông tin người nhận</h2>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.ReceiverName, "Họ tên", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.ReceiverName, new { htmlAttributes = new { @class = "form-control", placeholder = "Nhập họ tên người nhận" } })
+                    @Html.ValidationMessageFor(model => model.ReceiverName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.ReceiverPhone, "Số điện thoại", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.ReceiverPhone, new { htmlAttributes = new { @class = "form-control", placeholder = "Nhập số điện thoại khách hàng" } })
+                    @Html.ValidationMessageFor(model => model.ReceiverPhone, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="give-address" style="display: flex; padding-bottom: 10px; width: 50%;">
+                    <div class="col-md-10">
+                        <select class="form-control" id="provinceGiveDropdown" name="SelectedGiveProvince">
+                            <option value="">Chọn tỉnh thành</option>
+                            @if (provinceList == null || provinceList.Data == null)
+                            {
+                                <option value="">Trong</option>
+
+                            }
+                            else
+                            {
+                                foreach (var province in provinceList.Data)
+                                {
+                                    <option value="@province.ProvinceId">@province.ProvinceName</option>
+                                }
+                            }
+                        </select>
+                    </div>
+                    <div class="col-md-10">
+                        <select class="form-control" id="districtGiveDropdown" name="SelectedGiveDistrict">
+                        </select>
+                    </div>
+                </div>
+
+                <div class="col-md-10">
+                    <select class="form-control" id="wardGiveDropdown" name="SelectedGiveWard">
+                    </select>
+
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.SenderAddress, "Địa chỉ", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.SenderAddress, new { htmlAttributes = new { @class = "giveaddress form-control", placeholder = "Nhập địa chỉ (số nhà/tên đường, quận/huyện, phường/xã, tỉnh/thành phố)" } })
+                    @Html.ValidationMessageFor(model => model.SenderAddress, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div>
+                <h2>Thông tin hàng hóa</h2>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.ItemCode, "Mã đơn hàng", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.ItemCode, new { htmlAttributes = new { @class = "form-control", placeholder = "Nhập mã đơn hàng tự tạo" } })
+                        @Html.ValidationMessageFor(model => model.ItemCode, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.ItemName, "Tên đơn hàng", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.ItemName, new { htmlAttributes = new { @class = "item-name form-control", placeholder = "Nhập tên hàng hóa" } })
+                        @Html.ValidationMessageFor(model => model.ItemName, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.ItemQuantity, "Số lượng", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.ItemQuantity, new { htmlAttributes = new { @class = "item-count form-control", placeholder = "0" } })
+                        @Html.ValidationMessageFor(model => model.ItemQuantity, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.ItemWeight, "Trọng lượng", htmlAttributes: new { @class = "control -label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.ItemWeight, new { htmlAttributes = new { @class = "item-weight form-control", placeholder = "Trọng lượng   g" } })
+                        @Html.ValidationMessageFor(model => model.ItemWeight, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.ItemValue, "Giá trị đơn hàng", htmlAttributes: new { @class = "control -label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.ItemValue, new { htmlAttributes = new { @class = "item-price form-control", placeholder = "Giá trị hàng     đ" } })
+                        @Html.ValidationMessageFor(model => model.ItemValue, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <h2>Kích thước</h2>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Length, "Chiều dài", htmlAttributes: new { @class = "control -label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Length, new { htmlAttributes = new { @class = "item-length form-control", placeholder = "cm" } })
+                        @Html.ValidationMessageFor(model => model.Length, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Width, "Chiều rộng", htmlAttributes: new { @class = "control -label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Width, new { htmlAttributes = new { @class = "item-width form-control", placeholder = "cm" } })
+                        @Html.ValidationMessageFor(model => model.Width, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Height, "Chiều cao", htmlAttributes: new { @class = "control -label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Height, new { htmlAttributes = new { @class = "item-height form-control", placeholder = "cm" } })
+                        @Html.ValidationMessageFor(model => model.Height, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+            </div>
+
+            <div>
+                <h2>Thông tin thanh toán</h2>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.PaymentMethodCod, "Phương thức giao hàng", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        <select class="form-control" id="serviceAvailableDropdown" name="SelectedserviceAvailable">
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.PaymentMethodsPrice, "Giá tiền", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.PaymentMethodsPrice, new { htmlAttributes = new { @class = "total-price form-control", placeholder = "Giá tiền", @readonly = "readonly" } })
+                        @Html.ValidationMessageFor(model => model.PaymentMethodsPrice, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.PaymentMethods, "Giá COD", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.PaymentMethods, new { htmlAttributes = new { @class = "total-price-cod form-control", placeholder = "Giá COD" } })
+                        @Html.ValidationMessageFor(model => model.PaymentMethods, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.PaymentMethodCod, "Tổng", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.PaymentMethodCod, new { htmlAttributes = new { @class = "total-price-all form-control", placeholder = "Tổng", @readonly = "readonly" } })
+                        @Html.ValidationMessageFor(model => model.PaymentMethodCod, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Payer, "Người trả cước", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(m => m.Payer, new List<SelectListItem>
+                            {
+                            new SelectListItem { Text = "Người gửi", Value = "Người gửi" },
+                            new SelectListItem { Text = "Người nhận", Value = "Người nhận" },
+                            }, "Chọn người trả cước", new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Note, "Ghi chú", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Note, new { htmlAttributes = new { @class = "form-control", placeholder = "Nhập ghi chú" } })
+                        @Html.ValidationMessageFor(model => model.Note, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.PickUpRequest, "Yêu cầu lấy hàng", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(m => m.PickUpRequest, new List<SelectListItem>
+                        {
+                            new SelectListItem { Text = "Đến lấy hàng tại nhà", Value = "Lấy hàng tại nhà" },
+                            new SelectListItem { Text = "Gửi tại bưu cục", Value = "Gửi tại bưu cục" },
+                        }, "Chọn yêu cầu lấy hàng", new { @class = "form-control" })
+                    </div>
+                </div>
+                @*<div class="form-group">
+                        @Html.LabelFor(model => model.w_id, "Chọn kho hàng", htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.w_id, new { htmlAttributes = new { @class = "cb_text form-control", @Style = "display:none;" } })
+                            <select class="form-control" id="warehouseAvailableDropdown" name="SelectedWarehouseAvailable">
+                            </select>
+                        </div>
+                    </div>*@
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <button type="submit" class="btn btn-success">Create</button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('.total-price-cod').on('change', function () {
+                var inputValue = $(this).val();
+                var price = $(".total-price").val();
+                $(".total-price-all").val(parseFloat(inputValue) + parseFloat(price));
+            });
+        });
+        //Declare variable
+        let from_district = 0;
+        let to_district = 0;
+        let to_ward = 0;
+        let from_ward = 0;
+        let serviceId = 0;
+        let address = "";
+        let addressDistrict = "";
+        let addressWard = "";
+        let giveAddress = "";
+        let giveAddressDistrict = "";
+        let giveAddressWard = "";
+
+        //Function mapping to html from data response
+        function mapGiveDistrict(item) {
+            $("#districtGiveDropdown").append('<option value="' + item.DistrictId + '">' + item.DistrictName + '</option>');
+        }
+        function mapGiveveWard(item) {
+            $("#wardGiveDropdown").append('<option value="' + item.WardCode + '">' + item.WardName + '</option>');
+        }
+        function mapDistrict(item) {
+            $("#districtDropdown").append('<option value="' + item.DistrictId + '">' + item.DistrictName + '</option>');
+        }
+        function mapWard(item) {
+            $("#wardDropdown").append('<option value="' + item.WardCode + '">' + item.WardName + '</option>');
+        }
+        function mapService(item) {
+            $("#serviceAvailableDropdown").append('<option value="' + item.ServiceId + '">' + item.ShortName + '</option>');
+        }
+        function mapWarehouse(item) {
+            $("#warehouseAvailableDropdown").append('<option value="' + item.ID + '">' + item.Name + '</option>');
+        }
+        //Check event when element change
+        $(document).ready(function () {
+            $('.giveaddress').on('change', function () {
+                var inputValue = $(this).val();
+                $(".giveaddress").val(inputValue + ', ' + giveAddressWard)
+            });
+        });
+        $(document).ready(function () {
+            $('.address').on('change', function () {
+                var inputValue = $(this).val();
+                $(".address").val(inputValue + ', ' + addressWard)
+            });
+        });
+        $(document).ready(function () {
+            $('#warehouseAvailableDropdown').change(function () {
+                var value = $(this).val();
+                $('.cb_text').val(value);
+            });
+        })
+        $(document).ready(function () {
+            $("#districtGiveDropdown").change(function () {
+                giveAddressDistrict = ", " + $("#districtGiveDropdown option:selected").text();
+                var selectedGiveDistrictId = $(this).val();
+                to_district = selectedGiveDistrictId;
+                console.log("to " + to_district);
+                $("#wardGiveDropdown").empty().append("<option value=''>Chọn phường/xã</option>");
+                if (selectedGiveDistrictId) {
+                    $.ajax({
+                        url: '/Order/GetWardDtoAsync',
+                        type: 'GET',
+                        data: { districtId: selectedGiveDistrictId },
+                        contentType: 'application/json; charset=utf-8',
+                        dataType: 'json',
+                        success: function (response) {
+                            if (Array.isArray(response.Data)) {
+                                response.Data.forEach(mapGiveveWard);
+                            } else {
+                                console.error('Invalid data format in response.');
+                            }
+                        },
+                        error: function (xhr, status, error) {
+                            console.error('Error fetching districts:', error);
+                        }
+                    });
+                }
+            });
+        });
+        $(document).ready(function () {
+            $("#provinceGiveDropdown").change(function () {
+                giveAddress = $("#provinceGiveDropdown option:selected").text();
+                var selectedGiveProvinceId = $(this).val();
+                $("#districtGiveDropdown").empty().append("<option value=''>Chọn quận/huyện</option>");
+                if (selectedGiveProvinceId) {
+                    $.ajax({
+                        url: '/Order/GetDistricDtoAsync',
+                        type: 'GET',
+                        data: { provinceId: selectedGiveProvinceId },
+                        contentType: 'application/json; charset=utf-8',
+                        dataType: 'json',
+                        success: function (response) {
+                            if (Array.isArray(response.Data)) {
+                                response.Data.forEach(mapGiveDistrict);
+                            } else {
+                                console.error('Invalid data format in response.');
+                            }
+                        },
+                        error: function (xhr, status, error) {
+                            console.error('Error fetching districts:', error);
+                        }
+                    });
+                }
+            });
+        });
+        $(document).ready(function () {
+            $("#serviceAvailableDropdown").change(function () {
+                serviceId = $(this).val();
+                to_district = $("#districtGiveDropdown").val();
+                from_district = $("#districtDropdown").val();
+                to_ward = $("#wardGiveDropdown").val();
+                from_ward = $("#wardDropdown").val();
+                var height = $(".item-height").val();
+                var weight = $(".item-weight").val();
+                var length = $(".item-length").val();
+                var price = $(".item-price").val();
+                var width = $(".item-width").val();
+                if (serviceId) {
+                    $.ajax({
+                        url: '/Order/GetFeeDtoAsync',
+                        type: 'GET',
+                        data: { serviceId: serviceId, from_districtId: from_district, to_districtId: to_district, from_ward: from_ward.toString(), to_ward: to_ward.toString(), weight: weight, length: length, width: width, height: height, insurance_value: price },
+                        contentType: 'application/json; charset=utf-8',
+                        dataType: 'json',
+                        success: function (response) {
+                            $(".total-price").val(response.Data.total);
+                        },
+                        error: function (xhr, status, error) {
+                            console.error('Error fetching districts:', error);
+                        }
+                    });
+                }
+            });
+        });
+        $(document).ready(function () {
+            $("#wardGiveDropdown").change(function () {
+                giveAddressWard = giveAddress + ", " + giveAddressDistrict + ', ' + $("#wardGiveDropdown option:selected").text();
+                to_ward = $(this).val();
+            });
+        });
+        $(document).ready(function () {
+            $("#wardDropdown").change(function () {
+                addressWard = address + ", " + addressDistrict + ', ' + $("#wardDropdown option:selected").text();
+                from_ward = $(this).val();
+            });
+        });
+        $(document).ready(function () {
+            $("#districtGiveDropdown").change(function () {
+                $("#serviceAvailableDropdown").empty().append("<option value=''>Chọn hình thức thanh toán</option>");
+                var selectedToDistrict = $(this).val();
+                var selectedFromDistrict = $("#districtDropdown").val();
+                from_district = selectedFromDistrict;
+                to_district = selectedToDistrict;
+                $.ajax({
+                    url: '/Order/GetServiceDtoAsync',
+                    type: 'GET',
+                    data: {
+                        from_districtId: selectedFromDistrict,
+                        to_districtId: selectedToDistrict
+                    },
+                    success: function (response) {
+                        console.log(response)
+                        response.Data.forEach(mapService);
+                    },
+                    error: function (xhr, status, error) {
+                        console.error('Error fetching service data:', error);
+                    }
+                });
+            });
+        });
+        $(document).ready(function () {
+            $("#districtDropdown").change(function () {
+                var selectedDistrictId = $(this).val();
+                addressDistrict = $("#districtDropdown option:selected").text();
+
+                $("#wardDropdown").empty().append("<option value=''>Chọn phường/xã</option>");
+                if (selectedDistrictId) {
+                    $.ajax({
+                        url: '/Order/GetWardDtoAsync',
+                        type: 'GET',
+                        data: { districtId: selectedDistrictId },
+                        contentType: 'application/json; charset=utf-8',
+                        dataType: 'json',
+                        success: function (response) {
+                            if (Array.isArray(response.Data)) {
+                                response.Data.forEach(mapWard);
+                            } else {
+                                console.error('Invalid data format in response.');
+                            }
+                        },
+                        error: function (xhr, status, error) {
+                            console.error('Error fetching districts:', error);
+                        }
+                    });
+                }
+            });
+        });
+        $(document).ready(function () {
+            $("#provinceDropdown").change(function () {
+                var selectedProvinceId = $(this).val();
+                address = $("#provinceDropdown option:selected").text();
+                $("#districtDropdown").empty().append("<option value=''>Chọn quận/huyện</option>");
+                if (selectedProvinceId) {
+                    $.ajax({
+                        url: '/Order/GetDistricDtoAsync',
+                        type: 'GET',
+                        data: { provinceId: selectedProvinceId },
+                        contentType: 'application/json; charset=utf-8',
+                        dataType: 'json',
+                        success: function (response) {
+                            if (Array.isArray(response.Data)) {
+
+                                response.Data.forEach(mapDistrict);
+                            } else {
+                                console.error('Invalid data format in response.');
+                            }
+                        },
+                        error: function (xhr, status, error) {
+                            console.error('Error fetching districts:', error);
+                        }
+                    });
+                }
+            });
+        });
+        function loadData() {
+            $.ajax({
+                url: '/WareHouse/GetAllWareHouseAvailableAsync',
+                type: 'GET',
+                contentType: 'application/json; charset=utf-8',
+                dataType: 'json',
+                success: function (response) {
+                    response.forEach(mapWarehouse);
+                },
+                error: function (xhr, status, error) {
+                    console.error('Error fetching districts:', error);
+                }
+            });
+        }
+        loadData();
+    </script>
+
+    @Scripts.Render("~/bundles/jqueryval")
+}
+

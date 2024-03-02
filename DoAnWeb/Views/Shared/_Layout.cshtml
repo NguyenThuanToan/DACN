@@ -1,0 +1,371 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Basic -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- Site Metas -->
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
+    <title>Transportz</title>
+
+    <!-- slider stylesheet -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" />
+
+    <!-- bootstrap core css -->
+    <link href="~/Content/layoutcss/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/layoutcss/css/style.css" rel="stylesheet" />
+    <link href="~/Content/layoutcss/css/responsive.css" rel="stylesheet" />
+    <!-- fonts style -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <!-- responsive style -->
+    <link href="~/Content/PagedList.css" rel="stylesheet" />
+    <style>
+    </style>
+</head>
+
+<body>
+    <section class="header_section">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg custom_nav-container d-lg-none">
+                <a class="navbar-brand" href="#">
+                    <div class="logo-box">
+                        <img src="~/Content/Images/logo.png" alt="">
+                        <span>
+                            Transportz
+                        </span>
+                    </div>
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+            </nav>
+            <div class="header_container ">
+                <div class="logo-box">
+                    <img src="~/Content/Images/logo.png" alt="">
+                    <span>
+                        Transportz
+                    </span>
+                </div>
+                <div>
+                    <div class="header_top">
+                        <div class="header_top-contact">
+
+                            <a href="" class="ml-4">
+                                <div>
+                                    <img src="~/Content/Images/phone.png" alt="">
+                                </div>
+                                <span>
+                                    0367.883.482
+                                </span>
+                            </a>
+                            <a href="" class="ml-4">
+                                <div>
+                                    <img src="~/Content/Images/mail.png" alt="">
+                                </div>
+                                <span>
+                                    transportz@gmail.com
+                                </span>
+                            </a>
+                        </div>
+                        <div class="header_top-social">
+                            <div>
+                                <a href="">
+                                    <img src="~/Content/Images/fb.png" alt="">
+                                </a>
+                            </div>
+                            <div>
+                                <a href="">
+                                    <img src="~/Content/Images/twitter.png" alt="">
+                                </a>
+                            </div>
+                            <div>
+                                <a href="">
+                                    <img src="~/Content/Images/g-plus.png" alt="">
+                                </a>
+                            </div>
+                            <div>
+                                <a href="">
+                                    <img src="~/Content/Images/linkedin.png" alt="">
+                                </a>
+                            </div>
+
+
+                            @Html.Partial("_LoginPartial")
+
+                            @*<ul class="nav navbar-nav navbar-right">
+                                    <li><a href="/Account/Register" id="registerLink">Register</a></li>
+                                    <li><a href="/Account/Login" id="loginLink">Log in</a></li>
+                                </ul>*@
+                            @*@Html.Partial("_LoginPartial")*@
+                            @*<style>
+                                    .navbar-nav {
+                                        /* Thay đổi màu nền */
+                                        background-color: lightskyblue;
+                                        color: #fff;
+                                        /* Tạo hiệu ứng hover */
+                                        transition: background-color 0.3s ease;
+                                        outline: none;
+                                        background-color: skyblue;
+                                        box-shadow : revert;
+                                    }
+                                </style>*@
+
+
+                        </div>
+                    </div>
+                    <div class="header_btm">
+                        <nav class="navbar navbar-expand-lg custom_nav-container pt-3">
+
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+
+                            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                                <div class="d-flex mx-auto flex-column flex-lg-row align-items-center">
+                                    <ul class="navbar-nav  ">
+                                        <li class="nav-item active">
+                                            <a class="nav-link" href="/home/index">Trang chủ <span class="sr-only">(current)</span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/home/about"> Giới thiệu </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/order/index"> Dịch vụ</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/news/index"> Tin tức </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/tuyendung/index"> Tuyển dụng </a>
+                                        </li>
+                                        <li class="nav-item ">
+                                            <a class="nav-link pr-0" href="/home/contact">Liên hệ</a>
+                                        </li>
+                                        <li class="nav-item ">
+                                            <a class="nav-link pr-0" href="/feedback/index">Khảo sát</a>
+                                        </li>
+                                        <li class="nav-item ">
+                                            <a class="nav-link pr-0" href="/user/homessss/index">User > click < </a>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- end header section -->
+    @RenderBody();
+    <section class="info_section">
+        <div class="container ">
+            <div class="row  mb-3 pb-4">
+                <div class="col-md-3 info_logo">
+                    <div class="logo-box">
+                        <img src="~/Content/Images/logo-white.png" alt="">
+                        <span>
+                            Transportz
+                        </span>
+                    </div>
+                    <p>
+                        Làm việc với tiêu chí "Làm đúng ngay từ đầu"
+                    </p>
+                    <div class="info_social">
+                        <div>
+                            <a href="">
+                                <img src="~/Content/Images/fb.png" alt="">
+                            </a>
+                        </div>
+                        <div>
+                            <a href="">
+                                <img src="~/Content/Images/twitter.png" alt="">
+                            </a>
+                        </div>
+                        <div>
+                            <a href="">
+                                <img src="~/Content/Images/g-plus.png" alt="">
+                            </a>
+                        </div>
+                        <div>
+                            <a href="">
+                                <img src="~/Content/Images/linkedin.png" alt="">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 info_address">
+                    <span>
+                        Address
+                    </span>
+                    <p>
+                        17 Chu Mạnh Trinh , phường Bình Thọ , quận  Thủ Đức , TP.HCM
+                    </p>
+                    <p>
+                        (+84) 367883482
+                    </p>
+                    <p>
+                        (+99) 099999999
+                    </p>
+                    <p>
+                        <a href="">
+                            transportz@gmail.com
+                        </a>
+                    </p>
+                </div>
+                <div class="col-md-3 info_links">
+
+                    <div class="info_nav ">
+                        <nav class="">
+
+                            <span>
+                                Links
+                            </span>
+                            <ul>
+                                <li>
+                                    <a class="#" href="/home/index"> Trang chủ</a>
+                                </li>
+                                <li>
+                                    <a class="#" href="/home/about">Giới thiệu</a>
+                                </li>
+                                <li>
+                                    <a class="#" href="/order/index"> Dịch vụ</a>
+                                </li>
+                                <li>
+                                    <a class="#" href="/news/index"> Tin tức</a>
+                                </li>
+                                <li>
+                                    <a class="#" href="/tuyendung/index"> Tuyển dụng</a>
+                                </li>
+                                <li>
+                                    <a class="#" href="/home/contact">Liên hệ</a>
+                                </li>
+                                <li>
+                                    <a class="#" href="/feedback/index">Khảo sát</a>
+                                </li>
+
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+                <div class="col-md-3 info_news">
+                    <span>
+                        Newsletter
+                    </span>
+                    <form action="">
+                        <div>
+                            <input type="text" placeholder="Your Name">
+                        </div>
+                        <div>
+                            <input type="email" placeholder="Email">
+                        </div>
+                        <div class="d-flex justify-content-end">
+                            <button type="submit">
+                                Subscribe
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Button BACK TOP -->
+    <button id="myBtn" title="Lên đầu trang"><img src="~/Content/Images/backtop1.png" style="width : 50px" /></button>
+    <script>
+        window.onscroll = function () { scrollFunction() };
+        function scrollFunction() {
+
+            if (document.body.scrollTop > 600 || document.documentElement.scrollTop > 600) {
+                document.getElementById("myBtn").style.display = "block";
+            } else {
+                document.getElementById("myBtn").style.display = "none";
+            }
+        }
+
+        document.getElementById('myBtn').addEventListener("click", function () {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        });
+    </script>
+    <style>
+        /* Mui ten lên dau trang */
+        #myBtn {
+            display: none;
+            position: fixed;
+            bottom: 60px;
+            right: 10px;
+            z-index: 99;
+            border: none;
+            outline: none;
+            background-color: #fff;
+            border: 2px solid #ccc;
+            color: white;
+            cursor: pointer;
+            border-radius: 30px;
+            opacity: 0.7;
+        }
+
+            #myBtn:hover {
+                background-color: #f1f1f1;
+            }
+    </style>
+
+
+
+    <!-- end info section -->
+    <!-- footer section -->
+    <section class="container-fluid footer_section">
+        <p>
+            Transportz &copy; 2002 Hân hạnh được phục vụ quý khách
+        </p>
+    </section>
+    <!-- footer section -->
+    <script src="~/Content/layoutcss/js/bootstrap.js"></script>
+    <script src="~/Content/layoutcss/js/jquery-3.4.1.min.js"></script>
+
+    <script>
+        // This example adds a marker to indicate the position of Bondi Beach in Sydney,
+        // Australia.
+        function initMap() {
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 11,
+                center: {
+                    lat: 40.645037,
+                    lng: -73.880224
+                },
+            });
+
+            var image = 'images/maps-and-flags.png';
+            var beachMarker = new google.maps.Marker({
+                position: {
+                    lat: 40.645037,
+                    lng: -73.880224
+                },
+                map: map,
+                icon: image
+            });
+        }
+    </script>
+    <!-- google map js -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8eaHt9Dh5H57Zh0xVTqxVdBFCvFMqFjQ&callback=initMap">
+    </script>
+    <!-- end google map js -->
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

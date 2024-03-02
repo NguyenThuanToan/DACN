@@ -1,0 +1,43 @@
+﻿@model DoAnWeb.Models.tb_Order
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Chi tiết vận đơn</h2>
+<hr />
+<div class="row">
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+        <div class="panel panel-default">
+            <div class="panel panel-heading">
+                <h3>Thông tin người gửi</h3>
+                <p><strong>Họ tên: </strong>@Model.SenderName</p>
+                <p><strong>Số điện thoại: </strong>@Model.SenderPhone</p>
+                <p><strong>Địa chỉ: </strong>@Model.SenderAddress</p>
+                <h3>Thông tin người nhận</h3>
+                <p><strong>Họ tên: </strong>@Model.ReceiverName</p>
+                <p><strong>Số điện thoại: </strong>@Model.ReceiverPhone</p>
+                <p><strong>Địa chỉ: </strong>@Model.ReceiverAddress</p>
+                <h3>Thông tin đơn hàng</h3>
+                <p><strong>Mã đơn hàng: </strong>@Model.ItemCode</p>
+                <p><strong>Tên đơn hàng: </strong>@Model.ItemName</p>
+                <p><strong>Số lượng: </strong>@Model.ItemQuantity</p>
+                <p><strong>Cân nặng: </strong>@Model.ItemWeight KG</p>
+                <p><strong>Giá trị: </strong>@Model.ItemValue VNĐ</p>
+                <p><strong>Chiều dài: </strong>@Model.Length CM</p>
+                <p><strong>Chiều rộng: </strong>@Model.Width CM</p>
+                <p><strong>Chiều cao: </strong>@Model.Height CM</p>
+
+                <h3>Thông tin thanh toán</h3>
+                <p><strong>Hình thức thanh toán: </strong>@Model.PaymentMethodCod</p>
+                <p><strong>Người trả cước: </strong>@Model.Payer</p>
+                <p><strong>Ghi chú: </strong>@Model.Note</p>
+                <p><strong>Yêu cầu lấy hàng: </strong>@Model.PickUpRequest</p>
+                <div>
+                    @Html.ActionLink("Back to List", "Index")
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

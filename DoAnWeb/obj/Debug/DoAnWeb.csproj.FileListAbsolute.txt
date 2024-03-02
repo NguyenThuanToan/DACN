@@ -1,0 +1,1778 @@
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\DoAnWeb.dll.config
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\DoAnWeb.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\DoAnWeb.pdb
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\csc.exe
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\csc.exe.config
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\csc.rsp
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\csi.exe
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\csi.exe.config
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\csi.rsp
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.AppContext.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Console.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.Compression.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Net.Http.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Net.Sockets.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.ValueTuple.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\vbc.exe
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\vbc.exe.config
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\vbc.rsp
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\VBCSCompiler.exe
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Antlr3.Runtime.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\EntityFramework.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\EntityFramework.SqlServer.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Newtonsoft.Json.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Owin.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Net.Http.Formatting.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Helpers.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Http.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Http.WebHost.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Mvc.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Optimization.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Razor.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.WebPages.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.WebPages.Razor.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\WebGrease.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Helpers.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Mvc.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Optimization.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Razor.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.WebPages.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.WebPages.Razor.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Newtonsoft.Json.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Antlr3.Runtime.pdb
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Net.Http.Formatting.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Http.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Http.WebHost.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\EntityFramework.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\EntityFramework.SqlServer.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.AssemblyReference.cache
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.CoreCompileInputs.cache
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.CopyComplete
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.pdb
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\DoAnWeb.dll.config
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\DoAnWeb.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\DoAnWeb.pdb
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\csc.exe
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\csc.exe.config
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\csc.rsp
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\csi.exe
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\csi.exe.config
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\csi.rsp
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.AppContext.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Console.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Globalization.Calendars.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.Compression.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Net.Http.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Net.Sockets.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.ValueTuple.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Xml.XPath.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\vbc.exe
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\vbc.exe.config
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\vbc.rsp
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\VBCSCompiler.exe
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Antlr3.Runtime.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\EntityFramework.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\EntityFramework.SqlServer.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Google.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Newtonsoft.Json.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Owin.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Net.Http.Formatting.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Helpers.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Http.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Http.WebHost.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Mvc.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Optimization.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Razor.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.WebPages.Deployment.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.WebPages.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.WebPages.Razor.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\WebGrease.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Helpers.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Mvc.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Optimization.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Razor.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.WebPages.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.WebPages.Deployment.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.WebPages.Razor.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Newtonsoft.Json.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Antlr3.Runtime.pdb
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Net.Http.Formatting.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Http.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\System.Web.Http.WebHost.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\EntityFramework.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\EntityFramework.SqlServer.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Google.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.AssemblyReference.cache
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.CoreCompileInputs.cache
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.CopyComplete
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.dll
+E:\Lap Trinh Web\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.pdb
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\CKFinder.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\CKFinder.pdb
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\PagedList.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\PagedList.Mvc.dll
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\PagedList.xml
+D:\Lap Trinh Web\DoAnWeb\DoAnWeb\bin\PagedList.Mvc.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\DoAnWeb.dll.config
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\DoAnWeb.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\DoAnWeb.pdb
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\csc.exe
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\csc.exe.config
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\csc.rsp
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\csi.exe
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\csi.exe.config
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\csi.rsp
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.AppContext.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Console.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\vbc.exe
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\vbc.exe.config
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\vbc.rsp
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Antlr3.Runtime.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\CKFinder.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\EntityFramework.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Newtonsoft.Json.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Owin.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\PagedList.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\PagedList.Mvc.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Web.Helpers.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Web.Http.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Web.Mvc.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Web.Optimization.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Web.Razor.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Web.WebPages.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\WebGrease.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\CKFinder.pdb
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\PagedList.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\PagedList.Mvc.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Web.Helpers.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Web.Mvc.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Web.Optimization.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Web.Razor.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Web.WebPages.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Newtonsoft.Json.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Antlr3.Runtime.pdb
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Web.Http.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\EntityFramework.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.AssemblyReference.cache
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.CoreCompileInputs.cache
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.CopyComplete
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.pdb
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Flurl.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Flurl.Http.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Flurl.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Flurl.Http.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.Options.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Buffers.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.ComponentModel.Annotations.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Memory.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Numerics.Vectors.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Text.Encodings.Web.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.Options.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Buffers.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Memory.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Numerics.Vectors.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Text.Encodings.Web.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWeb\DoAnWeb\DoAnWeb\bin\System.Threading.Tasks.Extensions.xml
+D:\New folder\DoAnWeb\bin\DoAnWeb.dll.config
+D:\New folder\DoAnWeb\bin\DoAnWeb.dll
+D:\New folder\DoAnWeb\bin\DoAnWeb.pdb
+D:\New folder\DoAnWeb\bin\roslyn\csc.exe
+D:\New folder\DoAnWeb\bin\roslyn\csc.exe.config
+D:\New folder\DoAnWeb\bin\roslyn\csc.rsp
+D:\New folder\DoAnWeb\bin\roslyn\csi.exe
+D:\New folder\DoAnWeb\bin\roslyn\csi.exe.config
+D:\New folder\DoAnWeb\bin\roslyn\csi.rsp
+D:\New folder\DoAnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder\DoAnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\New folder\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\New folder\DoAnWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\New folder\DoAnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder\DoAnWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.AppContext.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Console.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.IO.Compression.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Net.Http.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Net.Sockets.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.ValueTuple.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Xml.XPath.dll
+D:\New folder\DoAnWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\New folder\DoAnWeb\bin\roslyn\vbc.exe
+D:\New folder\DoAnWeb\bin\roslyn\vbc.exe.config
+D:\New folder\DoAnWeb\bin\roslyn\vbc.rsp
+D:\New folder\DoAnWeb\bin\roslyn\VBCSCompiler.exe
+D:\New folder\DoAnWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder\DoAnWeb\bin\Antlr3.Runtime.dll
+D:\New folder\DoAnWeb\bin\CKFinder.dll
+D:\New folder\DoAnWeb\bin\EntityFramework.dll
+D:\New folder\DoAnWeb\bin\EntityFramework.SqlServer.dll
+D:\New folder\DoAnWeb\bin\Flurl.dll
+D:\New folder\DoAnWeb\bin\Flurl.Http.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.dll
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\New folder\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder\DoAnWeb\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.ObjectPool.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.Options.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.Primitives.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Net.Http.Headers.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Owin.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Owin.Security.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\New folder\DoAnWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder\DoAnWeb\bin\Newtonsoft.Json.dll
+D:\New folder\DoAnWeb\bin\Owin.dll
+D:\New folder\DoAnWeb\bin\PagedList.dll
+D:\New folder\DoAnWeb\bin\PagedList.Mvc.dll
+D:\New folder\DoAnWeb\bin\System.Buffers.dll
+D:\New folder\DoAnWeb\bin\System.ComponentModel.Annotations.dll
+D:\New folder\DoAnWeb\bin\System.Diagnostics.DiagnosticSource.dll
+D:\New folder\DoAnWeb\bin\System.Memory.dll
+D:\New folder\DoAnWeb\bin\System.Net.Http.Formatting.dll
+D:\New folder\DoAnWeb\bin\System.Numerics.Vectors.dll
+D:\New folder\DoAnWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\New folder\DoAnWeb\bin\System.Text.Encodings.Web.dll
+D:\New folder\DoAnWeb\bin\System.Threading.Tasks.Extensions.dll
+D:\New folder\DoAnWeb\bin\System.Web.Helpers.dll
+D:\New folder\DoAnWeb\bin\System.Web.Http.dll
+D:\New folder\DoAnWeb\bin\System.Web.Http.WebHost.dll
+D:\New folder\DoAnWeb\bin\System.Web.Mvc.dll
+D:\New folder\DoAnWeb\bin\System.Web.Optimization.dll
+D:\New folder\DoAnWeb\bin\System.Web.Razor.dll
+D:\New folder\DoAnWeb\bin\System.Web.WebPages.Deployment.dll
+D:\New folder\DoAnWeb\bin\System.Web.WebPages.dll
+D:\New folder\DoAnWeb\bin\System.Web.WebPages.Razor.dll
+D:\New folder\DoAnWeb\bin\WebGrease.dll
+D:\New folder\DoAnWeb\bin\CKFinder.pdb
+D:\New folder\DoAnWeb\bin\Flurl.xml
+D:\New folder\DoAnWeb\bin\Flurl.Http.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.ObjectPool.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.Options.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Extensions.Primitives.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Net.Http.Headers.xml
+D:\New folder\DoAnWeb\bin\PagedList.xml
+D:\New folder\DoAnWeb\bin\PagedList.Mvc.xml
+D:\New folder\DoAnWeb\bin\System.Buffers.xml
+D:\New folder\DoAnWeb\bin\System.Diagnostics.DiagnosticSource.xml
+D:\New folder\DoAnWeb\bin\System.Memory.xml
+D:\New folder\DoAnWeb\bin\System.Numerics.Vectors.xml
+D:\New folder\DoAnWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder\DoAnWeb\bin\System.Text.Encodings.Web.xml
+D:\New folder\DoAnWeb\bin\System.Threading.Tasks.Extensions.xml
+D:\New folder\DoAnWeb\bin\System.Web.Helpers.xml
+D:\New folder\DoAnWeb\bin\System.Web.Mvc.xml
+D:\New folder\DoAnWeb\bin\System.Web.Optimization.xml
+D:\New folder\DoAnWeb\bin\System.Web.Razor.xml
+D:\New folder\DoAnWeb\bin\System.Web.WebPages.xml
+D:\New folder\DoAnWeb\bin\System.Web.WebPages.Deployment.xml
+D:\New folder\DoAnWeb\bin\System.Web.WebPages.Razor.xml
+D:\New folder\DoAnWeb\bin\Newtonsoft.Json.xml
+D:\New folder\DoAnWeb\bin\Antlr3.Runtime.pdb
+D:\New folder\DoAnWeb\bin\System.Net.Http.Formatting.xml
+D:\New folder\DoAnWeb\bin\System.Web.Http.xml
+D:\New folder\DoAnWeb\bin\System.Web.Http.WebHost.xml
+D:\New folder\DoAnWeb\bin\EntityFramework.xml
+D:\New folder\DoAnWeb\bin\EntityFramework.SqlServer.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Owin.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Owin.Security.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\New folder\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\New folder\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.AssemblyReference.cache
+D:\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.CoreCompileInputs.cache
+D:\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.CopyComplete
+D:\New folder\DoAnWeb\obj\Debug\DoAnWeb.dll
+D:\New folder\DoAnWeb\obj\Debug\DoAnWeb.pdb
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\DoAnWeb.dll.config
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\DoAnWeb.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\DoAnWeb.pdb
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\csc.exe
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\csc.exe.config
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\csc.rsp
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\csi.exe
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\csi.exe.config
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\csi.rsp
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.AppContext.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Console.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.Compression.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Net.Http.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Net.Sockets.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.ValueTuple.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\vbc.exe
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\vbc.exe.config
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\vbc.rsp
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\VBCSCompiler.exe
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Antlr3.Runtime.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\CKFinder.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\EntityFramework.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\EntityFramework.SqlServer.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Flurl.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Flurl.Http.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Options.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Primitives.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Net.Http.Headers.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Newtonsoft.Json.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Owin.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\PagedList.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\PagedList.Mvc.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Buffers.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.ComponentModel.Annotations.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Memory.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Net.Http.Formatting.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Numerics.Vectors.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Text.Encodings.Web.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Threading.Tasks.Extensions.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Helpers.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Http.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Http.WebHost.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Mvc.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Optimization.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Razor.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Razor.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\WebGrease.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\CKFinder.pdb
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Flurl.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Flurl.Http.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Options.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Primitives.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Net.Http.Headers.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\PagedList.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\PagedList.Mvc.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Buffers.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Memory.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Numerics.Vectors.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Text.Encodings.Web.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Threading.Tasks.Extensions.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Helpers.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Mvc.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Optimization.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Razor.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Razor.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Newtonsoft.Json.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Antlr3.Runtime.pdb
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Net.Http.Formatting.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Http.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Http.WebHost.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\EntityFramework.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\EntityFramework.SqlServer.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.AssemblyReference.cache
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.CoreCompileInputs.cache
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.CopyComplete
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.dll
+D:\Lap Trinh Web\DoAnWebs\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.pdb
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\DoAnWeb.dll.config
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\DoAnWeb.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\DoAnWeb.pdb
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\csc.exe
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\csc.exe.config
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\csc.rsp
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\csi.exe
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\csi.exe.config
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\csi.rsp
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.AppContext.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Console.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\vbc.exe
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\vbc.exe.config
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\vbc.rsp
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Antlr3.Runtime.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\CKFinder.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\EntityFramework.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Flurl.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Flurl.Http.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Options.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Newtonsoft.Json.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Owin.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\PagedList.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\PagedList.Mvc.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Buffers.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.ComponentModel.Annotations.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Memory.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Numerics.Vectors.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Text.Encodings.Web.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Helpers.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Http.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Mvc.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Optimization.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Razor.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\WebGrease.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\CKFinder.pdb
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Flurl.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Flurl.Http.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Options.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\PagedList.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\PagedList.Mvc.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Buffers.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Memory.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Numerics.Vectors.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Text.Encodings.Web.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Helpers.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Mvc.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Optimization.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Razor.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Newtonsoft.Json.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Antlr3.Runtime.pdb
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Http.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\EntityFramework.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.AssemblyReference.cache
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.CoreCompileInputs.cache
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.CopyComplete
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebs_2\DoAnWebs\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.pdb
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\DoAnWeb.dll.config
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\DoAnWeb.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\DoAnWeb.pdb
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csc.exe
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csc.exe.config
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csc.rsp
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csi.exe
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csi.exe.config
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csi.rsp
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.AppContext.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Console.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.Compression.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Net.Http.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Net.Sockets.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.ValueTuple.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\vbc.exe
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\vbc.exe.config
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\vbc.rsp
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\VBCSCompiler.exe
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Antlr3.Runtime.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\CKFinder.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\EntityFramework.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\EntityFramework.SqlServer.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Flurl.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Flurl.Http.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Options.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Primitives.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Net.Http.Headers.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Newtonsoft.Json.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Owin.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\PagedList.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\PagedList.Mvc.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Buffers.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.ComponentModel.Annotations.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Memory.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Net.Http.Formatting.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Numerics.Vectors.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Text.Encodings.Web.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Threading.Tasks.Extensions.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Helpers.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Http.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Http.WebHost.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Mvc.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Optimization.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Razor.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Razor.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\WebGrease.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\CKFinder.pdb
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Flurl.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Flurl.Http.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Options.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Primitives.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Net.Http.Headers.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\PagedList.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\PagedList.Mvc.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Buffers.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Memory.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Numerics.Vectors.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Text.Encodings.Web.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Threading.Tasks.Extensions.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Helpers.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Mvc.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Optimization.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Razor.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Razor.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Newtonsoft.Json.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Antlr3.Runtime.pdb
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Net.Http.Formatting.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Http.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Http.WebHost.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\EntityFramework.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\EntityFramework.SqlServer.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.AssemblyReference.cache
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.CoreCompileInputs.cache
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.CopyComplete
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.dll
+D:\Lap Trinh Web\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.pdb
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\DoAnWeb.dll.config
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\DoAnWeb.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\DoAnWeb.pdb
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csc.exe
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csc.exe.config
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csc.rsp
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csi.exe
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csi.exe.config
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csi.rsp
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.AppContext.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Console.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\vbc.exe
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\vbc.exe.config
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\vbc.rsp
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Antlr3.Runtime.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\CKFinder.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\EntityFramework.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Flurl.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Flurl.Http.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Options.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Newtonsoft.Json.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Owin.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\PagedList.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\PagedList.Mvc.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Buffers.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.ComponentModel.Annotations.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Memory.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Numerics.Vectors.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Text.Encodings.Web.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Helpers.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Http.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Mvc.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Optimization.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Razor.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\WebGrease.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\CKFinder.pdb
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Flurl.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Flurl.Http.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Options.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\PagedList.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\PagedList.Mvc.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Buffers.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Memory.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Numerics.Vectors.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Text.Encodings.Web.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Helpers.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Mvc.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Optimization.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Razor.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Newtonsoft.Json.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Antlr3.Runtime.pdb
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Http.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\EntityFramework.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.AssemblyReference.cache
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.CoreCompileInputs.cache
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.CopyComplete
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.dll
+C:\Users\muonroi\Downloads\Compressed\DoAnWebChuyenNganh\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.pdb
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\DoAnWeb.dll.config
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\DoAnWeb.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\DoAnWeb.pdb
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csc.exe
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csc.exe.config
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csc.rsp
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csi.exe
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csi.exe.config
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csi.rsp
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.AppContext.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Console.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.Compression.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Net.Http.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Net.Sockets.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.ValueTuple.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\vbc.exe
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\vbc.exe.config
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\vbc.rsp
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\VBCSCompiler.exe
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Antlr3.Runtime.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\CKFinder.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\EntityFramework.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\EntityFramework.SqlServer.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Flurl.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Flurl.Http.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Options.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Primitives.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Net.Http.Headers.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Newtonsoft.Json.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Owin.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\PagedList.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\PagedList.Mvc.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Buffers.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.ComponentModel.Annotations.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Memory.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Net.Http.Formatting.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Numerics.Vectors.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Text.Encodings.Web.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Threading.Tasks.Extensions.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Helpers.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Http.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Http.WebHost.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Mvc.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Optimization.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Razor.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Razor.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\WebGrease.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\CKFinder.pdb
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Flurl.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Flurl.Http.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Options.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Primitives.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Net.Http.Headers.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\PagedList.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\PagedList.Mvc.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Buffers.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Memory.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Numerics.Vectors.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Text.Encodings.Web.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Threading.Tasks.Extensions.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Helpers.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Mvc.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Optimization.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Razor.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Razor.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Newtonsoft.Json.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Antlr3.Runtime.pdb
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Net.Http.Formatting.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Http.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Http.WebHost.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\EntityFramework.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\EntityFramework.SqlServer.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.AssemblyReference.cache
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.CoreCompileInputs.cache
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.CopyComplete
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.dll
+D:\Lap Trinh Web\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.pdb
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\DoAnWeb.dll.config
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\DoAnWeb.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\DoAnWeb.pdb
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csc.exe
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csc.exe.config
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csc.rsp
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csi.exe
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csi.exe.config
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\csi.rsp
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.AppContext.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Console.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.Compression.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Net.Http.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Net.Sockets.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.ValueTuple.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.XPath.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\vbc.exe
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\vbc.exe.config
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\vbc.rsp
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\VBCSCompiler.exe
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Antlr3.Runtime.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\CKFinder.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\EntityFramework.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\EntityFramework.SqlServer.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Flurl.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Flurl.Http.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyModel.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.ObjectPool.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Options.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Primitives.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Net.Http.Headers.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Newtonsoft.Json.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Owin.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\PagedList.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\PagedList.Mvc.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Buffers.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.ComponentModel.Annotations.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Diagnostics.DiagnosticSource.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Memory.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Net.Http.Formatting.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Numerics.Vectors.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Text.Encodings.Web.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Threading.Tasks.Extensions.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Helpers.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Http.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Http.WebHost.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Mvc.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Optimization.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Razor.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Deployment.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Razor.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\WebGrease.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\CKFinder.pdb
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Flurl.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Flurl.Http.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.ObjectPool.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Options.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Extensions.Primitives.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Net.Http.Headers.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\PagedList.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\PagedList.Mvc.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Buffers.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Diagnostics.DiagnosticSource.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Memory.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Numerics.Vectors.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Text.Encodings.Web.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Threading.Tasks.Extensions.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Helpers.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Mvc.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Optimization.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Razor.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Deployment.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.WebPages.Razor.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Newtonsoft.Json.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Antlr3.Runtime.pdb
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Net.Http.Formatting.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Http.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\System.Web.Http.WebHost.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\EntityFramework.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\EntityFramework.SqlServer.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.AssemblyReference.cache
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.CoreCompileInputs.cache
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.csproj.CopyComplete
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.dll
+D:\DACN2\SQL\DoAnWebChuyenNganh\doan(new)\New folder\New folder\DoAnWeb\obj\Debug\DoAnWeb.pdb

@@ -1,0 +1,135 @@
+﻿@model DoAnWeb.Models.tb_Order
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Bạn có muốn xóa đơn hàng này không ?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.SenderName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SenderName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SenderPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SenderPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SenderAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SenderAddress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ReceiverName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ReceiverName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ReceiverPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ReceiverPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ReceiverAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ReceiverAddress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ItemCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ItemCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ItemName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ItemName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ItemWeight)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ItemWeight)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ItemValue)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ItemValue)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PaymentMethodCod)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PaymentMethodCod)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Payer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Payer)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Note)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Note)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PickUpRequest)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PickUpRequest)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

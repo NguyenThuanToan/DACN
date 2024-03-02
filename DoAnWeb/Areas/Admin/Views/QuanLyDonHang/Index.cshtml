@@ -1,0 +1,305 @@
+﻿@using System.Collections.Generic;
+@model List<DoAnWeb.Areas.Admin.Data.OrderByUser>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@section naviheader{
+    <!-- Left navbar links -->
+    <ul class="navbar-nav">
+        <li class="nav-item">
+            <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
+        </li>
+        <li class="nav-item d-none d-sm-inline-block">
+            <a href="/admin" class="nav-link">Trang chủ</a>
+        </li>
+        <li class="nav-item d-none d-sm-inline-block">
+            <a href="/admin/category" class="nav-link">Danh mục</a>
+        </li>
+    </ul>
+}
+<!-- Content Header (Page header) -->
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1>Quản lý đơn hàng</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item active">Danh mục</li>
+                </ol>
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</section>
+
+<!-- Main content -->
+<section class="content">
+
+    <!-- Default box -->
+    <div class="row">
+        <div class="col-12">
+            <div class="card-body">
+                <table class="table table-bordered" id="tripTable">
+                    <thead>
+                        <tr>
+                            <th>Mã đơn hàng</th>
+                            <th>Ngày tạo</th>
+                            <th>Tên mặt hàng</th>
+                            <th>Tên người gửi</th>
+                            <th>Tên người nhận</th>
+                            <th>Thu hộ</th>
+                            <th>Trạng thái</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        @{
+                            foreach (var item in Model)
+                            {
+                                <tr>
+                                    <th colspan="8" style="background-color:lightgray">
+                                        <p id="currentUserId" style="display:none;">@item.UserId</p>
+                                        <p id="totalOrder" style="display:none;">@item.Count</p>
+                                        <a id="currentUserClick" href="#" type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">@item.FullName</a>
+                                    </th>
+                                </tr>
+                                foreach (var single in item.Orders)
+                                {
+                                    <tr data-widget="expandable-table" aria-expanded="false">
+                                        <td id="codeOrder" style="display:none;">@single.Id</td>
+                                        <td>@single.ItemCode</td>
+                                        <td>@single.CreatedDate</td>
+                                        <td>@single.ItemName</td>
+                                        <td>@single.SenderName</td>
+                                        <td>@single.ReceiverName</td>
+                                        <td>@single.PaymentMethodCod VNĐ</td>
+                                        <td>
+                                            <style>
+                                                .text-custom-blue {
+                                                    color: blue;
+                                                }
+                                            </style>
+                                            @if (single.IsActive == "Chờ lấy hàng")
+                                            {
+                                                <i class="fas fa-circle text-danger"></i>
+                                            }
+                                            else if (single.IsActive == "Đã nhập kho")
+                                            {
+                                                <i class="fas fa-circle text-warning"></i>
+                                            }
+                                            else if (single.IsActive == "Đang vận chuyển")
+                                            {
+                                                <i class="fas fa-circle text-custom-blue"></i>
+                                            }
+                                            else if (single.IsActive == "Chờ duyệt")
+                                            {
+                                                <i class="fas fa-circle #000000"></i>
+                                            }
+                                            else if (single.IsActive == "Đã giao thành công")
+                                            {
+                                                <i class="fas fa-circle text-success"></i>
+                                            }
+                                            @single.IsActive
+                                        </td>
+
+
+                                        <td>
+                                            @if (single.IsActive == "Chờ lấy hàng")
+                                            {
+                                                <button class="btn btn-success btn-sm" id="chooseWarehouseBtn">Chọn kho</button>
+                                            }
+                                            @if (single.IsActive == "Chờ duyệt")
+                                            {
+                                                <button id="approve-order" type="button" data-id="@single.Id" class="btn btn-sm btn-primary">Duyệt đơn</button>
+                                            }
+                                            <a href="/order/details/@single.Id" class="btn btn-primary btn-sm">Xem</a>
+                                            <a href="/order/delete/@single.Id" class="btn btn-danger btn-sm">Xóa</a>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+
+                        }
+                </table>
+
+
+
+                <div class="row">
+                    <div class="col-6"></div>
+                    <div class="col-6" style="text-align:right;">
+                        @*@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))*@
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- /.card -->
+
+</section>
+<!-- Button trigger modal -->
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                no data
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="modalWareHouse" tabindex="-1" role="dialog" aria-labelledby="exampleModalWareHouse" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-titles" id="exampleModalWareHouse">Modal title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Đóng">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modalWareHouseModalBody">
+                <div class="form-group">
+                    <label class="control-label col-md-2">Chọn kho hàng</label>
+                    <div class="col-md-10">
+                        <input class="cb_text form-control" style="display:none;" />
+                        <select class="form-control" id="warehouseAvailableDropdown" name="SelectedWarehouseAvailable">
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button id="saveChangeBtn" type="button" class="btn btn-primary">Hoàn thành</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /.content -->
+@section scripts{
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#warehouseAvailableDropdown').change(function () {
+                var value = $(this).val();
+                $('.cb_text').val(value);
+            });
+        })
+        let btnClick = document.querySelectorAll('#chooseWarehouseBtn');
+    btnClick.forEach(function (element) {
+        element.addEventListener('click', function (event) {
+            var currentRow = $(this).closest('tr');
+            $('#modalWareHouse').modal('show');
+            $('#saveChangeBtn').on('click', function () {
+                var currentOrderId = currentRow.find('#codeOrder').text();;
+                var wareHouseId = $('.cb_text').val();
+                console.log(currentOrderId);
+                console.log(wareHouseId);
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("AssignWareHouseToOrder", "QuanLyDonHang")',
+                    data: { id: currentOrderId, wareHouseId: wareHouseId },
+                    success: function (result) {
+                        if (result) {
+                            alert('Changes saved successfully!');
+                            $('#modalWareHouse').dispose();
+                        } else {
+                            alert('Failed to save changes.');
+                            $('#modalWareHouse').dispose();
+                        }
+                    },
+                    error: function () {
+                        alert('Failed to retrieve user details.');
+                    }
+                });
+            });
+        });
+    });
+        let btnClicks = document.querySelectorAll('#currentUserClick');
+        btnClicks.forEach(function (element) {
+    element.addEventListener('click', function (event) {
+        var currentRow = $(this).closest('tr');
+        var currentUserId = currentRow.find('#currentUserId').text();
+        var currentTotal = currentRow.find('#totalOrder').text();
+        $.ajax({
+            type: "GET",
+            url: '@Url.Action("UserDetail", "QuanLyDonHang")',
+            data: { id: currentUserId },
+            success: function (userDetails) {
+                var email = userDetails.Email;
+                var name = userDetails.Name;
+                var modalContent = '<ul>';
+                modalContent += '<li><strong>Email:</strong> ' + email + '</li>';
+                modalContent += '<li><strong>Name:</strong> ' + name + '</li>';
+                modalContent += '<li><strong>Total order:</strong> ' + currentTotal + '</li>';
+                modalContent += '</ul>';
+
+                $('#exampleModalLabel').text('User Details');
+                $('.modal-body').html(modalContent);
+
+                $('#exampleModal').modal('show');
+            },
+            error: function () {
+                alert('Failed to retrieve user details.');
+            }
+        });
+    });
+});
+
+
+    function mapWarehouse(item) {
+            $("#warehouseAvailableDropdown").append('<option value="' + item.ID + '">' + item.Name + '</option>');
+    }
+    function loadData() {
+    $.ajax({
+        url: '/WareHouse/GetAllWareHouseAvailableAsync',
+        type: 'GET',
+        contentType: 'application/json; charset=utf-8',
+        dataType: 'json',
+        success: function (response) {
+            $('.cb_text').val(response[0].ID);
+            response.forEach(mapWarehouse);
+        },
+        error: function (xhr, status, error) {
+            console.error('Error fetching districts:', error);
+        }
+    });
+}
+        loadData();
+
+         const  approveBtns = document.querySelectorAll('#approve-order');
+    approveBtns.forEach(approveBtn => {
+        approveBtn.addEventListener('click', function(event) {
+            const orderId = this.getAttribute('data-id');
+            const url = '@Url.Action("ApproveOrder", "QuanLyDonHang")';
+            $.ajax({
+                type: "POST",
+                url: url,
+                data: { id: orderId } ,
+                success: function (rs) {
+                    location.reload(true);
+                    alert('Nhận đơn thành công!.');
+                },
+                error: function (rs) {
+                    alert('Nhận đơn không thành công!.');
+                    location.reload(true);
+                }
+            });
+        });
+     });
+    </script>
+}

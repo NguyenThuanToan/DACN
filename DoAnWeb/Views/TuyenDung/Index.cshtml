@@ -1,0 +1,142 @@
+﻿@model DoAnWeb.Models.tb_Recruitment
+@{
+    ViewBag.Title = "Index";
+
+}
+
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+<!-- Stylesheets-->
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:100,300,300i,400,500,600,700,900%7CRaleway:500">
+<link href="~/Content/css/bootstrap.css" rel="stylesheet" />
+<link href="~/Content/css/fonts.css" rel="stylesheet" />
+<link href="~/Content/css/style1.css" rel="stylesheet" />
+<body>
+    <div class="preloader">
+        
+    </div>
+    <div class="page">
+
+        <!-- Breadcrumbs -->
+        <section class="contact_section layout_padding">
+            <div class="d-flex justify-content-center">
+                <h2 class="heading_style">
+                    Tuyển dụngz
+                </h2>
+            </div>
+        </section>
+
+        <section class="section section-lg bg-default text-md-left" style="margin-top:-50px;">
+            <div class="container">
+                <div class="row row-60 justify-content-center">
+                    <div class="col-lg-8">
+                        <h4 class="text-spacing-25 text-transform-none">Đơn tuyển dụng : </h4>
+                        @*<form class="rd-form rd-mailform" data-form-output="form-output-global" data-form-type="contact" method="post" action="Contact/Add">*@
+                        <form action="/TuyenDung/Index" method="post" role="form" class="signup-form">
+                            @Html.AntiForgeryToken()
+                            @Html.ValidationSummary("", new { @class = "text-danger" })
+                            <div class="row row-20 gutters-20">
+                                <div class="col-md-6">
+                                    <div class="form-wrap">
+                                        <input class="form-input" id="Name" type="text" name="Name" placeholder="Your Name*" @*data-constraints="@Required"*@>
+                                    </div>
+                                    @Html.ValidationMessageFor(row => row.Name)
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-wrap">
+                                        <input class="form-input" id="Email" type="email" name="Email" placeholder="Your E-mail*" @*data-constraints="@Email @Required"*@>
+                                    </div>
+                                    @Html.ValidationMessageFor(row => row.Email)
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-wrap">
+                                        <input class="form-input" id="PhoneNumber" type="text" name="PhoneNumber" placeholder="Your Phone*" @*data-constraints="@Numeric"*@>
+                                    </div>
+                                    @Html.ValidationMessageFor(row => row.PhoneNumber)
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-wrap">
+                                        <input class="form-input" id="CCCDorCMND" type="text" name="CCCDorCMND" placeholder="CCCDorCMND*" @*data-constraints="@Numeric"*@>
+                                    </div>
+                                    @Html.ValidationMessageFor(row => row.CCCDorCMND)
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-wrap">
+                                        <textarea class="form-input textarea-lg" id="Address" name="Address" placeholder="Address*"></textarea> @*data-constraints="@Numeric"*@
+                                    </div>
+                                    @Html.ValidationMessageFor(row => row.Address)
+                                </div>
+                                <div class="col-md-12">
+                                    @Html.TextBoxFor(x => x.ImageDriver, new { @id = "txtImage", @class = "form-control" })
+                                    <input type="button" value="Tải ảnh lên" onclick="BrowseServer('txtImage');" />
+                                </div>
+                            </div>
+                            <button class="button button-secondary button-winona" type="submit">NỘP ĐƠN</button>
+                        </form>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="aside-contacts">
+                            <div class="row row-30">
+                                <div class="col-sm-6 col-lg-12 aside-contacts-item">
+                                    <p class="aside-contacts-title">Phone</p>
+                                    <div class="unit unit-spacing-xs justify-content-center justify-content-md-start">
+                                        <div>
+                                            <img src="~/Content/Images/phone.png" alt="">
+                                        </div>
+                                        <div class="unit-body"><a class="phone" href="tel:#">0367.883.482</a></div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-lg-12 aside-contacts-item">
+                                    <p class="aside-contacts-title">E-mail</p>
+                                    <div class="unit unit-spacing-xs justify-content-center justify-content-md-start">
+                                        <div>
+                                            <img src="~/Content/Images/mail.png" alt="">
+                                        </div>
+                                        <div class="unit-body"><a class="mail" href="mailto:#">transportz@gmail.com</a></div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-lg-12 aside-contacts-item">
+                                    <p class="aside-contacts-title">Address</p>
+                                    <div class="unit unit-spacing-xs justify-content-center justify-content-md-start">
+                                        <div>
+                                            <img src="~/Content/Images/logo.png" alt="">
+                                        </div>                                  
+                                        <div class="unit-body"><a class="address" href="https://goo.gl/maps/KeBBRz8XqaFUS7DB6">17 Chu Mạnh Trinh , Quận Thủ Đức , Thành phố Hồ Chí Minh , Việt Nam</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.5284988324597!2d106.76709167495858!3d10.847349289305715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317527a08e3c0821%3A0x313136a306f29bc8!2zMTcgQ2h1IE3huqFuaCBUcmluaCwgQsOsbmggVGjhu40sIFRo4bunIMSQ4bupYywgVGjDoG5oIHBo4buRIEjhu5MgQ2jDrSBNaW5oLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1686205361016!5m2!1svi!2s" width="2000" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+    </div>
+    <!-- Global Mailform Output-->
+    <div class="snackbars" id="form-output-global"></div>
+    <!-- Javascript-->
+
+    <script src="~/Content/js/core.js"></script>
+    <script src="~/Content/js/script.js"></script>
+</body>
+
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            CKEDITOR.replace('txtDetail', {
+                customConfig: '/content/ckeditor/config.js',
+                extraAllowedContent: 'span',
+            });
+        });
+        function BrowseServer(field) {
+            var finder = new CKFinder();
+            finder.selectActionFunction = function (fileUrl) {
+                document.getElementById(field).value = fileUrl;
+            };
+            finder.popup();
+        }
+
+    </script>
+    <script src="~/Content/ckeditor/ckeditor/ckeditor.js"></script>
+    <script src="~/Content/ckfinder/ckfinder/ckfinder.js"></script>
+}

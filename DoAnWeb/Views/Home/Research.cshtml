@@ -1,0 +1,481 @@
+﻿
+@{
+    ViewBag.Title = "Research";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*@<section id="s1">
+    <div class="container">
+        <ul class="u1">
+            <li class="att acti" data-title="one">Tra cứu </li>
+            <li class="att" data-title="two">Dịch vụ</li>
+        </ul>
+        <div class="ct-tracuu one">
+            <ul class="u2">
+                <li data-title="ct1" class="active">
+                    Tra cứu vận đơn
+                </li>
+                <li class="" data-title="ct2">
+                    Ước tính cước phí
+                </li>
+                <li data-title="ct3">
+                    Tìm kiếm bưu cục
+                </li>
+                <li data-title="ct4">
+                    Đăng ký đại lý thu gom
+                </li>
+            </ul>
+            <div class="ct-u2 ct1 tab1">
+                <iframe id="trackingIframe" src="https://viettelpost.vn/viettelpost-iframe/tra-cuu-hanh-trinh-don-hang-v3-recaptcha" width="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            </div><!-- ct2 -->
+
+            <div class="ct-u2 ct2">
+                <div>
+                    <div>
+                        <form action="/tra-cuoc-va-thoi-gian-van-chuyen" method="GET">
+                            <div hidden="true">
+                                <div class="form-group">
+                                    <label>Dịch vụ</label>
+                                    <input type="number" hidden="true" name="SERVICE" value="1" id="service">
+                                </div>
+                            </div>
+                            <div class="box1">
+                                <div class="form-group">
+                                    <label>Gửi từ *</label>
+                                    <select class="js-select" name="SENDER_PROVINCE" id="province_from">
+                                        <option value="1" selected>
+                                            <span class="option-text">TP.Hà Nội</span>
+                                        </option>
+                                        <option value="2">
+                                            <span class="option-text">TP.Hồ Chí Minh</span>
+                                        </option>
+                                        <option value="3">
+                                            <span class="option-text">TP.Hải Phòng</span>
+                                        </option>
+                                        <option value="4">
+                                            <span class="option-text">TP.Đà Nẵng</span>
+                                        </option>
+                                        <option value="5">
+                                            <span class="option-text">TP.Cần Thơ</span>
+                                        </option>
+                                        <option value="6">
+                                            <span class="option-text">T.Tiền Giang</span>
+                                        </option>
+                                        <option value="8">
+                                            <span class="option-text">T.Hậu Giang</span>
+                                        </option>
+                                        <option value="9">
+                                            <span class="option-text">T.Đăk Nông</span>
+                                        </option>
+                                        <option value="10">
+                                            <span class="option-text">T.Vĩnh Phúc</span>
+                                        </option>
+                                        <option value="11">
+                                            <span class="option-text">T.Bắc Ninh</span>
+                                        </option>
+                                        <option value="12">
+                                            <span class="option-text">T.Hải Dương</span>
+                                        </option>
+                                        <option value="13">
+                                            <span class="option-text">T.Hưng Yên</span>
+                                        </option>
+                                        <option value="14">
+                                            <span class="option-text">T.Hà Nam</span>
+                                        </option>
+                                        <option value="15">
+                                            <span class="option-text">T.Nam Ðịnh</span>
+                                        </option>
+                                        <option value="16">
+                                            <span class="option-text">T.Thái Bình</span>
+                                        </option>
+                                        <option value="17">
+                                            <span class="option-text">T.Ninh Bình</span>
+                                        </option>
+                                        <option value="18">
+                                            <span class="option-text">T.Hà Giang</span>
+                                        </option>
+                                        <option value="19">
+                                            <span class="option-text">T.Cao Bằng</span>
+                                        </option>
+                                        <option value="20">
+                                            <span class="option-text">T.Lào Cai</span>
+                                        </option>
+                                        <option value="21">
+                                            <span class="option-text">T.Bắc Kạn</span>
+                                        </option>
+                                        <option value="22">
+                                            <span class="option-text">T.Lạng Sơn</span>
+                                        </option>
+                                        <option value="23">
+                                            <span class="option-text">T.Tuyên Quang</span>
+                                        </option>
+                                        <option value="24">
+                                            <span class="option-text">T.Yên Bái</span>
+                                        </option>
+                                        <option value="25">
+                                            <span class="option-text">T.Thái Nguyên</span>
+                                        </option>
+                                        <option value="26">
+                                            <span class="option-text">T.Phú Thọ</span>
+                                        </option>
+                                        <option value="27">
+                                            <span class="option-text">T.Bắc Giang</span>
+                                        </option>
+                                        <option value="28">
+                                            <span class="option-text">T.Quảng Ninh</span>
+                                        </option>
+                                        <option value="29">
+                                            <span class="option-text">T.Lai Châu</span>
+                                        </option>
+                                        <option value="30">
+                                            <span class="option-text">T.Sơn La</span>
+                                        </option>
+                                        <option value="31">
+                                            <span class="option-text">T.Hòa Bình</span>
+                                        </option>
+                                        <option value="32">
+                                            <span class="option-text">T.Thanh Hóa</span>
+                                        </option>
+                                        <option value="33">
+                                            <span class="option-text">T.Nghệ An</span>
+                                        </option>
+                                        <option value="34">
+                                            <span class="option-text">T.Hà Tĩnh</span>
+                                        </option>
+                                        <option value="35">
+                                            <span class="option-text">T.Quảng Bình</span>
+                                        </option>
+                                        <option value="36">
+                                            <span class="option-text">T.Quảng Trị</span>
+                                        </option>
+                                        <option value="37">
+                                            <span class="option-text">T.Thừa Thiên - Huế</span>
+                                        </option>
+                                        <option value="38">
+                                            <span class="option-text">T.Quảng Nam</span>
+                                        </option>
+                                        <option value="39">
+                                            <span class="option-text">T.Quảng Ngãi</span>
+                                        </option>
+                                        <option value="40">
+                                            <span class="option-text">T.Bình Ðịnh</span>
+                                        </option>
+                                        <option value="41">
+                                            <span class="option-text">T.Phú Yên</span>
+                                        </option>
+                                        <option value="42">
+                                            <span class="option-text">T.Khánh Hòa</span>
+                                        </option>
+                                        <option value="43">
+                                            <span class="option-text">T.Kon Tum</span>
+                                        </option>
+                                        <option value="44">
+                                            <span class="option-text">T.Gia Lai</span>
+                                        </option>
+                                        <option value="45">
+                                            <span class="option-text">T.Đăk Lăk</span>
+                                        </option>
+                                        <option value="46">
+                                            <span class="option-text">T.Lâm Ðồng</span>
+                                        </option>
+                                        <option value="47">
+                                            <span class="option-text">T.Ninh Thuận</span>
+                                        </option>
+                                        <option value="48">
+                                            <span class="option-text">T.Bình Phước</span>
+                                        </option>
+                                        <option value="49">
+                                            <span class="option-text">T.Tây Ninh</span>
+                                        </option>
+                                        <option value="50">
+                                            <span class="option-text">T.Bình Dương</span>
+                                        </option>
+                                        <option value="51">
+                                            <span class="option-text">T.Đồng Nai</span>
+                                        </option>
+                                        <option value="52">
+                                            <span class="option-text">T.Bình Thuận</span>
+                                        </option>
+                                        <option value="53">
+                                            <span class="option-text">T.Bà Rịa - Vũng Tàu</span>
+                                        </option>
+                                        <option value="54">
+                                            <span class="option-text">T.Long An</span>
+                                        </option>
+                                        <option value="55">
+                                            <span class="option-text">T.Đồng Tháp</span>
+                                        </option>
+                                        <option value="56">
+                                            <span class="option-text">T.An Giang</span>
+                                        </option>
+                                        <option value="57">
+                                            <span class="option-text">T.Vĩnh Long</span>
+                                        </option>
+                                        <option value="58">
+                                            <span class="option-text">T.Bến Tre</span>
+                                        </option>
+                                        <option value="59">
+                                            <span class="option-text">T.Kiên Giang</span>
+                                        </option>
+                                        <option value="60">
+                                            <span class="option-text">T.Trà Vinh</span>
+                                        </option>
+                                        <option value="61">
+                                            <span class="option-text">T.Sóc Trăng</span>
+                                        </option>
+                                        <option value="62">
+                                            <span class="option-text">T.Bạc Liêu</span>
+                                        </option>
+                                        <option value="63">
+                                            <span class="option-text">T.Cà Mau</span>
+                                        </option>
+                                        <option value="64">
+                                            <span class="option-text">T.Điện Biên</span>
+                                        </option>
+                                        <!-- <option value="HCM" selected="selected"><span class="option-text">TP.Hồ Chí Minh</span></option> -->
+                                    </select>
+                                </div>
+
+                                <div class="form-group">
+                                    <label>Quận / Huyện *</label>
+                                    <select id="listDistrict-from" name="SENDER_DISTRICT"></select>
+                                </div>
+                            </div>
+
+                            <div class="box1">
+                                <div class="form-group">
+                                    <label>Gửi đến *</label>
+                                    <select class="js-select" name="RECEIVER_PROVINCE" id="province_to">
+                                        <option value="1">
+                                            <span class="option-text">TP.Hà Nội</span>
+                                        </option>
+                                        <option value="2" selected>
+                                            <span class="option-text">TP.Hồ Chí Minh</span>
+                                        </option>
+                                        <option value="3">
+                                            <span class="option-text">TP.Hải Phòng</span>
+                                        </option>
+                                        <option value="4">
+                                            <span class="option-text">TP.Đà Nẵng</span>
+                                        </option>
+                                        <option value="5">
+                                            <span class="option-text">TP.Cần Thơ</span>
+                                        </option>
+                                        <option value="6">
+                                            <span class="option-text">T.Tiền Giang</span>
+                                        </option>
+                                        <option value="8">
+                                            <span class="option-text">T.Hậu Giang</span>
+                                        </option>
+                                        <option value="9">
+                                            <span class="option-text">T.Đăk Nông</span>
+                                        </option>
+                                        <option value="10">
+                                            <span class="option-text">T.Vĩnh Phúc</span>
+                                        </option>
+                                        <option value="11">
+                                            <span class="option-text">T.Bắc Ninh</span>
+                                        </option>
+                                        <option value="12">
+                                            <span class="option-text">T.Hải Dương</span>
+                                        </option>
+                                        <option value="13">
+                                            <span class="option-text">T.Hưng Yên</span>
+                                        </option>
+                                        <option value="14">
+                                            <span class="option-text">T.Hà Nam</span>
+                                        </option>
+                                        <option value="15">
+                                            <span class="option-text">T.Nam Ðịnh</span>
+                                        </option>
+                                        <option value="16">
+                                            <span class="option-text">T.Thái Bình</span>
+                                        </option>
+                                        <option value="17">
+                                            <span class="option-text">T.Ninh Bình</span>
+                                        </option>
+                                        <option value="18">
+                                            <span class="option-text">T.Hà Giang</span>
+                                        </option>
+                                        <option value="19">
+                                            <span class="option-text">T.Cao Bằng</span>
+                                        </option>
+                                        <option value="20">
+                                            <span class="option-text">T.Lào Cai</span>
+                                        </option>
+                                        <option value="21">
+                                            <span class="option-text">T.Bắc Kạn</span>
+                                        </option>
+                                        <option value="22">
+                                            <span class="option-text">T.Lạng Sơn</span>
+                                        </option>
+                                        <option value="23">
+                                            <span class="option-text">T.Tuyên Quang</span>
+                                        </option>
+                                        <option value="24">
+                                            <span class="option-text">T.Yên Bái</span>
+                                        </option>
+                                        <option value="25">
+                                            <span class="option-text">T.Thái Nguyên</span>
+                                        </option>
+                                        <option value="26">
+                                            <span class="option-text">T.Phú Thọ</span>
+                                        </option>
+                                        <option value="27">
+                                            <span class="option-text">T.Bắc Giang</span>
+                                        </option>
+                                        <option value="28">
+                                            <span class="option-text">T.Quảng Ninh</span>
+                                        </option>
+                                        <option value="29">
+                                            <span class="option-text">T.Lai Châu</span>
+                                        </option>
+                                        <option value="30">
+                                            <span class="option-text">T.Sơn La</span>
+                                        </option>
+                                        <option value="31">
+                                            <span class="option-text">T.Hòa Bình</span>
+                                        </option>
+                                        <option value="32">
+                                            <span class="option-text">T.Thanh Hóa</span>
+                                        </option>
+                                        <option value="33">
+                                            <span class="option-text">T.Nghệ An</span>
+                                        </option>
+                                        <option value="34">
+                                            <span class="option-text">T.Hà Tĩnh</span>
+                                        </option>
+                                        <option value="35">
+                                            <span class="option-text">T.Quảng Bình</span>
+                                        </option>
+                                        <option value="36">
+                                            <span class="option-text">T.Quảng Trị</span>
+                                        </option>
+                                        <option value="37">
+                                            <span class="option-text">T.Thừa Thiên - Huế</span>
+                                        </option>
+                                        <option value="38">
+                                            <span class="option-text">T.Quảng Nam</span>
+                                        </option>
+                                        <option value="39">
+                                            <span class="option-text">T.Quảng Ngãi</span>
+                                        </option>
+                                        <option value="40">
+                                            <span class="option-text">T.Bình Ðịnh</span>
+                                        </option>
+                                        <option value="41">
+                                            <span class="option-text">T.Phú Yên</span>
+                                        </option>
+                                        <option value="42">
+                                            <span class="option-text">T.Khánh Hòa</span>
+                                        </option>
+                                        <option value="43">
+                                            <span class="option-text">T.Kon Tum</span>
+                                        </option>
+                                        <option value="44">
+                                            <span class="option-text">T.Gia Lai</span>
+                                        </option>
+                                        <option value="45">
+                                            <span class="option-text">T.Đăk Lăk</span>
+                                        </option>
+                                        <option value="46">
+                                            <span class="option-text">T.Lâm Ðồng</span>
+                                        </option>
+                                        <option value="47">
+                                            <span class="option-text">T.Ninh Thuận</span>
+                                        </option>
+                                        <option value="48">
+                                            <span class="option-text">T.Bình Phước</span>
+                                        </option>
+                                        <option value="49">
+                                            <span class="option-text">T.Tây Ninh</span>
+                                        </option>
+                                        <option value="50">
+                                            <span class="option-text">T.Bình Dương</span>
+                                        </option>
+                                        <option value="51">
+                                            <span class="option-text">T.Đồng Nai</span>
+                                        </option>
+                                        <option value="52">
+                                            <span class="option-text">T.Bình Thuận</span>
+                                        </option>
+                                        <option value="53">
+                                            <span class="option-text">T.Bà Rịa - Vũng Tàu</span>
+                                        </option>
+                                        <option value="54">
+                                            <span class="option-text">T.Long An</span>
+                                        </option>
+                                        <option value="55">
+                                            <span class="option-text">T.Đồng Tháp</span>
+                                        </option>
+                                        <option value="56">
+                                            <span class="option-text">T.An Giang</span>
+                                        </option>
+                                        <option value="57">
+                                            <span class="option-text">T.Vĩnh Long</span>
+                                        </option>
+                                        <option value="58">
+                                            <span class="option-text">T.Bến Tre</span>
+                                        </option>
+                                        <option value="59">
+                                            <span class="option-text">T.Kiên Giang</span>
+                                        </option>
+                                        <option value="60">
+                                            <span class="option-text">T.Trà Vinh</span>
+                                        </option>
+                                        <option value="61">
+                                            <span class="option-text">T.Sóc Trăng</span>
+                                        </option>
+                                        <option value="62">
+                                            <span class="option-text">T.Bạc Liêu</span>
+                                        </option>
+                                        <option value="63">
+                                            <span class="option-text">T.Cà Mau</span>
+                                        </option>
+                                        <option value="64">
+                                            <span class="option-text">T.Điện Biên</span>
+                                        </option>
+                                        <!-- <option value="HCM" selected="selected"><span class="option-text">TP.Hồ Chí Minh</span></option> -->
+                                    </select>
+                                </div>
+
+                                <div class="form-group">
+                                    <label>Quận / Huyện *</label>
+                                    <select id="listDistrict-to" name="RECEIVER_DISTRICT"></select>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="form-group">
+                                    <label>Trọng lượng (Gram) *</label>
+                                    <input type="number" value="" required="" min="1" id="trongluong" name="PRODUCT_WEIGHT">
+                                </div>
+                            </div>
+                            <div>
+                                <div class="form-group">
+                                    <label>Số tiền thu hộ (VNĐ)</label>
+                                    <input type="number" value="" name="MONEY_COLLECTION">
+                                </div>
+                            </div>
+                            <button class="btn-tracuu" name="tracuu">Tra cứu</button>
+                        </form>
+                    </div>
+                    <img src="https://viettelpost.com.vn/wp-content/themes/viettel/assets/images/cuoc-phi.png" alt="" class="lz">
+                </div>
+            </div><!-- ct2 -->
+
+            <div class="ct-u2 ct3">
+                <div>
+                    <!-- <img src="https://viettelpost.com.vn/wp-content/themes/viettel/images/home/img1.png">
+                                        <div>
+                                            <p>
+                                                Mạng lưới bưu cục trên 63 tỉnh thành<br />
+                    Mạng lưới chuyển phát của Viettel Post phủ sóng khắp 63 tỉnh thành trên lãnh thổ Việt Nam.                        </p>
+                                            <a href="/tim-kiem-buu-cuc/">
+                                                <button type="submit" class="d-send">Tìm kiếm</button>
+                                            </a>
+                                        </div> -->
+                    <iframe src="/iframe-tim-kiem-buu-cuc/"></iframe>
+                </div>
+            </div><!-- ct3 --> *@
+
+
